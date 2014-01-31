@@ -1,0 +1,16 @@
+CHANGES.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+google_ngram_downloader/__init__.py
+google_ngram_downloader/__main__.py
+google_ngram_downloader/util.py
+google_ngram_downloader.egg-info/PKG-INFO
+google_ngram_downloader.egg-info/SOURCES.txt
+google_ngram_downloader.egg-info/dependency_links.txt
+google_ngram_downloader.egg-info/entry_points.txt
+google_ngram_downloader.egg-info/not-zip-safe
+google_ngram_downloader.egg-info/requires.txt
+google_ngram_downloader.egg-info/top_level.txt
+test/test_util.py
